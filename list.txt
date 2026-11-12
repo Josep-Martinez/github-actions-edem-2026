@@ -1,0 +1,5 @@
+¡Hola! Contenido de list.txt:
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
