@@ -1,4 +1,4 @@
-name: Welcome to the party (output)
+name: Welcome to the party (second)
 on:
   workflow_dispatch:
 jobs:
